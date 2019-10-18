@@ -20,15 +20,16 @@
 ### [언어](#언어-1)
 - [Java](#Java)
 - [Go](#Go)
-### [프레임워크](#프레임워크-1)
-- [Spring](#Spring)
+- [Python](#Python)
 ### [백엔드](#백엔드-1)
+- [Spring](#Spring)
 ### [프론트엔드](#프론트엔드-1)
+- [HTML&CSS](#HTML&CSS)
 ### [앱](#앱-1)
 - [IOS](#IOS)
 - [안드로이드](#안드로이드)
 ### [보안](#보안-1)
-### [데이터사이언스](# 데이터사이언스-1)
+### [데이터사이언스](#데이터사이언스-1)
 - [기초](#기초)
 ### [기타](#기타-1)
  
@@ -47,23 +48,25 @@
 - [바로 실행해보면서 배우는 Go Lang](https://edu.goorm.io/lecture/2010/%EB%B0%94%EB%A1%9C-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-go-lang)
   - 기초 개발 지식이 없으면 수강하기 힘들다. 별도의 설치없이 웹에서 바로 실행해볼 수 있어서 이해가 쉽다.
 
---------------------------------------
-
-## 프레임워크
-### Spring
-- [예제로 배우는 스프링 입문 (개정판)](https://www.inflearn.com/course/spring_revised_edition)
-  - 핵심 개념을 깔끔하게 짚어준다.
+### Python
+- [모두를 위한 파이썬](https://www.edwith.org/pythonforeverybody)
+  - Michigan 대학 Charles Severance 교수님의 인기 MOOC 강좌인 “Python for Everybody” 동영상과 강의 노트 번역본
   
 --------------------------------------
 
 ## 백엔드
+### Spring
+- [예제로 배우는 스프링 입문 (개정판)](https://www.inflearn.com/course/spring_revised_edition)
+  - 핵심 개념을 깔끔하게 짚어준다.
 
 --------------------------------------
 
 ## 프론트엔드
-### 기초
+### HTML&CSS
 - [코코아톡 클론 코딩](https://academy.nomadcoders.co/p/kakaoclone_practice)
   - HTML & CSS에 대해서 배울 수 있다. 실제로 만들면서 이론을 설명해줘서 이해가 쉽다.
+- [초보자를 위한 HTML & CSS 동작과 원리](https://www.edwith.org/htmlcss)
+  
 --------------------------------------
 
 ## 앱
@@ -72,8 +75,12 @@
   - Swift 기초 문법을 익히고 수강하는 것을 추천한다.
 
 ### 안드로이드
+- [[부스트코스] 안드로이드 프로그래밍](https://www.edwith.org/boostcourse-android)
+  - Java 기초 문법을 익히고 수강하는 것을 추천한다.
 
 ## 보안
+- [정보보안 전문가란? 무엇을 하고 어떻게 준비해야 할까.](https://www.inflearn.com/course/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88-%EC%A0%84%EB%AC%B8%EA%B0%80)
+  - 정보보안 분야에 대해 감을 잡게 해주는 강의입니다.
 
 --------------------------------------
 
