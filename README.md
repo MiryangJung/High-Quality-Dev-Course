@@ -16,6 +16,7 @@
 >카테고리가 없다면 이슈에 등록해주세요.
 3. PR을 보내주세요.
 
+
 ## :card_file_box: 카테고리
 ### [언어](#언어-1)
 - [Java](#Java)
@@ -30,8 +31,10 @@
 - [안드로이드](#안드로이드)
 ### [데이터사이언스](#데이터사이언스-1)
 - [기초](#기초)
+- [머신러닝](#머신러닝)
 ### [기타](#기타-1)
 - [보안](#보안)
+- [블록체인](#)
  
 --------------------------------------
 </br>
@@ -51,6 +54,10 @@
 ### Python
 - [모두를 위한 파이썬](https://www.edwith.org/pythonforeverybody)
   - Michigan 대학 Charles Severance 교수님의 인기 MOOC 강좌인 “Python for Everybody” 동영상과 강의 노트 번역본
+- [파이썬 입문](https://programmers.co.kr/learn/courses/2)
+  - 초심자에게 추천하는 강좌입니다. 실습예제로 이해를 쉽게할 수 있습니다.
+- [미운코딩새끼: 4시간만에 끝내는 파이썬 기초](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%A2%8C)
+  - 빠르게 파이썬 기초에 대해서 배울 수 있습니다. 전자책도 제공해서 복습하기에 용이합니다.
   
 --------------------------------------
 </br>
@@ -88,6 +95,8 @@
 ### 기초
 - [[MIT] 데이터 사이언스 기초](https://www.edwith.org/datascience)
   - MIT 공대의 "Introduction to Computational Thinking and Data Science" 수업 영상 및 강의 자료 번역본
+### 머신러닝
+- [Google의 실용적인 머신러닝 단기집중과정](https://developers.google.com/machine-learning/crash-course/)
 
 --------------------------------------
 </br>
@@ -97,3 +106,6 @@
 - [정보보안 전문가란? 무엇을 하고 어떻게 준비해야 할까.](https://www.inflearn.com/course/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88-%EC%A0%84%EB%AC%B8%EA%B0%80)
   - 정보보안 분야에 대해 감을 잡게 해주는 강의입니다.
 
+### 블록체인
+- [Klaytn 클레이튼 블록체인 어플리케이션 만들기 - 이론과 실습]()
+  - 기초 지식은 필요하지만 블록체인을 가볍게 훑어볼 수 있습니다.
