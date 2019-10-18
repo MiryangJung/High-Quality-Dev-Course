@@ -52,6 +52,8 @@
   - 기초 개발 지식이 없으면 수강하기 힘들다. 별도의 설치없이 웹에서 바로 실행해볼 수 있어서 이해가 쉽다.
 
 ### Python
+- [Programming for Everybody](https://www.coursera.org/learn/python)
+  - Michigan 대학 Charles Severance 교수님의 인기 MOOC 강좌
 - [모두를 위한 파이썬](https://www.edwith.org/pythonforeverybody)
   - Michigan 대학 Charles Severance 교수님의 인기 MOOC 강좌인 “Python for Everybody” 동영상과 강의 노트 번역본
 - [파이썬 입문](https://programmers.co.kr/learn/courses/2)
@@ -105,6 +107,7 @@
 ### 보안
 - [정보보안 전문가란? 무엇을 하고 어떻게 준비해야 할까.](https://www.inflearn.com/course/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88-%EC%A0%84%EB%AC%B8%EA%B0%80)
   - 정보보안 분야에 대해 감을 잡게 해주는 강의입니다.
+- [Enterprise Security Fundamentals](https://www.edx.org/course/enterprise-security-fundamentals-3)
 
 ### 블록체인
 - [Klaytn 클레이튼 블록체인 어플리케이션 만들기 - 이론과 실습]()
