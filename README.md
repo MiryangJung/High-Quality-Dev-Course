@@ -86,24 +86,25 @@
 
 ## 앱
 ### IOS
-- [[부스트코스] iOS 프로그래밍](https://www.edwith.org/boostcourse-ios)
+- [부스트코스 - iOS 프로그래밍](https://www.edwith.org/boostcourse-ios)
   - Swift 기초 문법을 익히고 수강하는 것을 추천한다.
 
 ### 안드로이드
-- [[부스트코스] 안드로이드 프로그래밍](https://www.edwith.org/boostcourse-android)
+- [부스트코스 - 안드로이드 프로그래밍](https://www.edwith.org/boostcourse-android)
   - Java 기초 문법을 익히고 수강하는 것을 추천한다.
 - [현직개발자가 알려주는 안드로이드 앱 쉽게 만드는 방법](https://edu.goorm.io/lecture/15564/%ED%98%84%EC%A7%81%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%EC%89%BD%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95)
-  - 
+
 
 --------------------------------------
 </br>
 
 ## 데이터사이언스
 ### 기초
-- [[MIT] 데이터 사이언스 기초](https://www.edwith.org/datascience)
+- [MIT 데이터 사이언스 기초](https://www.edwith.org/datascience)
   - MIT 공대의 "Introduction to Computational Thinking and Data Science" 수업 영상 및 강의 자료 번역본
 ### 머신러닝
 - [Google의 실용적인 머신러닝 단기집중과정](https://developers.google.com/machine-learning/crash-course/)
+- [머신러닝을 위한 Python 워밍업](https://www.edwith.org/aipython)
 
 --------------------------------------
 </br>
