@@ -22,10 +22,14 @@
 - [Java](#Java)
 - [Go](#Go)
 - [Python](#Python)
+- [C](#C)
+- [Ruby](#Ruby)
 ### [백엔드](#백엔드-1)
 - [Spring](#Spring)
+- [Node.js](#Node.js)
 ### [프론트엔드](#프론트엔드-1)
 - [HTML&CSS](#HTML&CSS)
+- [React](#React)
 ### [앱](#앱-1)
 - [IOS](#IOS)
 - [안드로이드](#안드로이드)
@@ -44,8 +48,6 @@
 - [Do it! 자바 프로그래밍 입문](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9E%85%EB%AC%B8)
 - [바로 실행해보면서 배우는 자바](https://edu.goorm.io/lecture/12243/%EB%B0%94%EB%A1%9C-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%B0%94)
   - 설명이 쉬워서 독학하는 사람에게 추천이다. 차근차근 나아가는 구성이다.
-- [점프 투 파이썬](https://wikidocs.net/book/1)
-  - 파이썬 입문에 좋은 책이다.
 
 ### Go
 - [바로 실행해보면서 배우는 Go Lang](https://edu.goorm.io/lecture/2010/%EB%B0%94%EB%A1%9C-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-go-lang)
@@ -61,7 +63,15 @@
 - [미운코딩새끼: 4시간만에 끝내는 파이썬 기초](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%A2%8C)
   - 빠르게 파이썬 기초에 대해서 배울 수 있습니다. 전자책도 제공해서 복습하기에 용이합니다.
 - [파이콘 2018 영코더 with 바울랩](https://edu.goorm.io/lecture/3990/%ED%8C%8C%EC%9D%B4%EC%BD%98-2018-%EC%98%81%EC%BD%94%EB%8D%94-with-%EB%B0%94%EC%9A%B8%EB%9E%A9)
-  
+- [점프 투 파이썬](https://wikidocs.net/book/1)
+  - 파이썬 입문에 좋은 온라인 책이다.
+
+### C
+- [바로 실행해보면서 배우는 C언어](https://edu.goorm.io/lecture/201/%EB%B0%94%EB%A1%9C-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-c%EC%96%B8%EC%96%B4)
+
+### Ruby
+- [바로 실행해보면서 배우는 Ruby](https://edu.goorm.io/lecture/2011/%EB%B0%94%EB%A1%9C-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-ruby)
+
 --------------------------------------
 </br>
 
@@ -72,6 +82,7 @@
 ### Node.js
 - [바로 실행해보면서 배우는 Node.js](https://edu.goorm.io/lecture/557/%EB%B0%94%EB%A1%9C-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-node-js)
   - JS를 몰라도 들을 수 있도록 구성되어 있다.
+  
 --------------------------------------
 </br>
 
@@ -80,7 +91,13 @@
 - [코코아톡 클론 코딩](https://academy.nomadcoders.co/p/kakaoclone_practice)
   - HTML & CSS에 대해서 배울 수 있다. 실제로 만들면서 이론을 설명해줘서 이해가 쉽다.
 - [초보자를 위한 HTML & CSS 동작과 원리](https://www.edwith.org/htmlcss)
-  
+- [Do it! HTML5 + CSS3 웹 표준의 정석](https://edu.goorm.io/lecture/12565/%EC%A0%80%EC%9E%90-%EC%A7%81%EA%B0%95-%EB%B0%94%EB%A1%9C-%EC%8B%A4%ED%96%89-do-it-html5-css3-%EC%9B%B9-%ED%91%9C%EC%A4%80%EC%9D%98-%EC%A0%95%EC%84%9D)
+  - 도서와 병행하여 공부하면 좋습니다.
+
+### React
+- [누구든지 하는 리액트: 초심자를 위한 react 핵심 강좌](https://www.inflearn.com/course/react-velopert/)
+  - 기초부터 활용하는 방법을 핵심만 간결하게 배울 수 있습니다.
+
 --------------------------------------
 </br>
 
