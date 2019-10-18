@@ -60,6 +60,7 @@
   - 초심자에게 추천하는 강좌입니다. 실습예제로 이해를 쉽게할 수 있습니다.
 - [미운코딩새끼: 4시간만에 끝내는 파이썬 기초](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%A2%8C)
   - 빠르게 파이썬 기초에 대해서 배울 수 있습니다. 전자책도 제공해서 복습하기에 용이합니다.
+- [파이콘 2018 영코더 with 바울랩](https://edu.goorm.io/lecture/3990/%ED%8C%8C%EC%9D%B4%EC%BD%98-2018-%EC%98%81%EC%BD%94%EB%8D%94-with-%EB%B0%94%EC%9A%B8%EB%9E%A9)
   
 --------------------------------------
 </br>
@@ -68,7 +69,9 @@
 ### Spring
 - [예제로 배우는 스프링 입문 (개정판)](https://www.inflearn.com/course/spring_revised_edition)
   - 핵심 개념을 깔끔하게 짚어준다.
-
+### Node.js
+- [바로 실행해보면서 배우는 Node.js](https://edu.goorm.io/lecture/557/%EB%B0%94%EB%A1%9C-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-node-js)
+  - JS를 몰라도 들을 수 있도록 구성되어 있다.
 --------------------------------------
 </br>
 
@@ -89,6 +92,8 @@
 ### 안드로이드
 - [[부스트코스] 안드로이드 프로그래밍](https://www.edwith.org/boostcourse-android)
   - Java 기초 문법을 익히고 수강하는 것을 추천한다.
+- [현직개발자가 알려주는 안드로이드 앱 쉽게 만드는 방법](https://edu.goorm.io/lecture/15564/%ED%98%84%EC%A7%81%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%EC%89%BD%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95)
+  - 
 
 --------------------------------------
 </br>
