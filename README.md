@@ -24,6 +24,7 @@
 - [Python](#Python)
 - [C](#C)
 - [Ruby](#Ruby)
+- [Javascript](#Javascript)
 ### [백엔드](#백엔드-1)
 - [Spring](#Spring)
 - [Node.js](#Node.js)
@@ -73,6 +74,13 @@
 
 ### Ruby
 - [바로 실행해보면서 배우는 Ruby](https://edu.goorm.io/lecture/2011/%EB%B0%94%EB%A1%9C-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-ruby)
+
+### Javascript
+- [자바스크립트 언어 기본 - javascript](https://www.inflearn.com/course/%EC%A7%80%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B8)
+  - 기본 개념부터 세세하게 알려주므로 입문자에게 적합하나, 이미 기초 지식이 있는 분들에게는 지루하게 느껴질 수도 있습니다.
+- [자바스크립트로 알아보는 함수형 프로그래밍](https://www.inflearn.com/course/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D#)
+- [함수형 프로그래밍과 ES6+](https://youtu.be/4sO0aWTd3yc)
+  - 라이브코딩으로 진행되어서 실제 코드를 통한 이해를 할 수 있어 좋습니다.
 
 --------------------------------------
 </br>
@@ -145,3 +153,4 @@
 ### 블록체인
 - [Klaytn 클레이튼 블록체인 어플리케이션 만들기 - 이론과 실습]()
   - 기초 지식은 필요하지만 블록체인을 가볍게 훑어볼 수 있습니다.
+ 
